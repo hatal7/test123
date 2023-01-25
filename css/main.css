@@ -606,7 +606,7 @@ header .btn-outline-light {
             transform: translateX(-42%);
   }
   header .hero-img {
-    background-image: url("../images/chorwacja3.jpg");
+    background-image: url("../assets/chorwacja3.jpg");
     background-color: #242424;
   }
 }
@@ -689,7 +689,7 @@ header .btn-outline-light {
 
 @media (min-width: 1200px) {
   header .hero-img {
-    background-image: url("../images/chorwacja3.jpg");
+    background-image: url("../assets/chorwacja3.jpg");
     background-color: #414141;
   }
 }
